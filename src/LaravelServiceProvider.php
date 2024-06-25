@@ -2,9 +2,9 @@
 
 namespace Kokerboom\Laravel;
 
+use Kokerboom\Laravel\Commands\LaravelCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Kokerboom\Laravel\Commands\LaravelCommand;
 
 class LaravelServiceProvider extends PackageServiceProvider
 {
