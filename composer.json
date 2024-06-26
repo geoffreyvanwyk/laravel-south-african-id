@@ -7,7 +7,7 @@
         "laravel-south-african-id"
     ],
     "homepage": "https://github.com/geoffreyvanwyk/laravel-south-african-id",
-    "license": "MIT",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Geoffrey Bernardo van Wyk",
